@@ -21266,9 +21266,9 @@
     "restore": {
       "projectUniqueName": "IMDb",
       "projectName": "IMDb",
-      "projectPath": "C:\\Users\\logonrmlocal\\Documents\\UiPath\\IMDb\\.local",
+      "projectPath": "C:\\Users\\logonrmlocal\\Documents\\UiPath\\2TIAF\\RPA\\IMDb\\.local",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Documents\\UiPath\\IMDb\\.local",
+      "outputPath": "C:\\Users\\logonrmlocal\\Documents\\UiPath\\2TIAF\\RPA\\IMDb\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]
