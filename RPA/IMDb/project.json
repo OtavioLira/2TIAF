@@ -1,5 +1,6 @@
 {
   "name": "IMDb",
+  "projectId": "f9f6d2d3-edc4-4e65-ac9b-e89e0802c366",
   "description": "Checkpoint de RPA",
   "main": "Main.xaml",
   "dependencies": {
@@ -41,7 +42,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
